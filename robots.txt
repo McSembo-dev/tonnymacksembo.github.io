@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tonnymacksembo.co.ke/sitemap.xml
